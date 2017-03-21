@@ -1,0 +1,25 @@
+{
+  "name": "javascript-unit-testing",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main_test.js",
+  "dependencies": {
+    "chai": "^3.5.0"
+  },
+  "devDependencies": {
+    "mocha": "^3.2.0"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/willowcheng/javascript-unit-testing.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/willowcheng/javascript-unit-testing/issues"
+  },
+  "homepage": "https://github.com/willowcheng/javascript-unit-testing#readme"
+}
