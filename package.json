@@ -10,7 +10,8 @@
     "mocha": "^3.2.0"
   },
   "scripts": {
-    "test": "mocha"
+    "test": "mocha",
+    "test:watch": "mocha --watch ./test ./",
   },
   "repository": {
     "type": "git",

@@ -55,7 +55,7 @@ function getRandomCoordinates () {
 function getRandomDirection () {
   return Math.random() > 0.5
     ? 'horizontal'
-    : 'vertical';	
+    : 'vertical';
 }
 
 
